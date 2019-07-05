@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.drag{
+    background-color: #cccc00;
+    width: 350px;
+    height: 467px;
+    margin: 10%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.round{
+    text-align: center;
+    background: linear-gradient(to right. #cc6600, #ff9933);
+    
+}
+
+.rage{
+    width: 350px;
+    height: 210px;
+    border-radius: 10px;
+}
+
+.effect{
+    background-color: #cc6600;
+    padding: 10px;
+}
+
+.rod{
+    text-align: center;
+    font-size: 19px;
+    font-weight: lighter;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.element{
+    background-color: #330019;
+    padding: 8px;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    display: block;
+    text-align: center;
+    position: relative; 
+    top: -70px;
+}
+
+.logo{
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+    background-color: #cc6600;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px; 
+}
+
+.Stats > p {
+    letter-spacing: 1px;
+    background-color: #cc6600;
+}
+
